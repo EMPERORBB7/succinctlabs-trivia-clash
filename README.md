@@ -1,0 +1,1 @@
+# succinctlabs-trivia-clash
