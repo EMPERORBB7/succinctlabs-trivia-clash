@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>SuccinctLabs Trivia Clash</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="background-animation"></div>
+
+    <div id="main">
+      <img
+        src="images/succinct-arcade-logo.svg"
+        alt="Succinct Logo"
+        id="logo"
+      />
+
+      <!-- Start Screen -->
+      <div id="start-screen">
+        <h1>🎮 Succinct Labs Trivia Clash</h1>
+        <input type="text" id="username" placeholder="Enter your name" />
+        <select id="team-select">
+          <option value="">Choose your team</option>
+          <option value="pink">Pink</option>
+          <option value="blue">Blue</option>
+          <option value="green">Green</option>
+          <option value="purple">Purple</option>
+          <option value="orange">Orange</option>
+        </select>
+        <select id="question-count">
+          <option value="5">Play 5 Questions</option>
+          <option value="10">Play 10 Questions</option>
+          <option value="20">Play 20 Questions</option>
+        </select>
+        <button onclick="startQuiz()">Start Quiz</button>
+      </div>
+
+      <!-- Quiz Screen -->
+      <div id="quiz-screen" class="hidden">
+        <img id="team-image" src="" alt="Team Image" />
+        <div id="team-label"></div>
+        <div id="user-label"></div>
+        <div id="scoreboard">Score: 0</div>
+        <div id="timer">Time Left: 15s</div>
+        <div id="question-container"></div>
+        <button onclick="nextQuestion()">Next</button>
+      </div>
+
+      <!-- Result Screen -->
+      <div id="result-screen" class="hidden">
+        <h2 id="result-message"></h2>
+        <a id="tweet-link" target="_blank">📣 Share on Twitter</a><br />
+        <button onclick="restartQuiz()">Play Again</button>
+      </div>
+
+      <!--  My Social Footer -->
+      <footer id="social-footer">
+        <a href="https://x.com/EMPERORBB7" target="_blank" title="X / Twitter">
+          <img
+            src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+            alt="X Icon"
+          />
+        </a>
+        <a href="https://github.com/EMPERORBB7" target="_blank" title="GitHub">
+          <img
+            src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
+            alt="GitHub Icon"
+          />
+        </a>
+      </footer>
+    </div>
+
+    <!-- Confetti + Script -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

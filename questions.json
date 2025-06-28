@@ -1,0 +1,634 @@
+[
+  {
+    "q": "What cryptographic technique is core to Succinct's technology?",
+    "a": [
+      "Zero-knowledge proofs",
+      "PoW",
+      "Digital signatures",
+      "Merkle mining"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What is the name of Succinct's zkVM?",
+    "a": ["SP1", "ZKVM-42", "Zebra", "SNARKy"],
+    "correct": 0
+  },
+  {
+    "q": "What is earned in the Succinct Testnet for completing challenges?",
+    "a": ["Stars", "Points", "Credits", "Snaps"],
+    "correct": 0
+  },
+  {
+    "q": "Which theme does the Incentivized Testnet focus on?",
+    "a": [
+      "Crisis of Trust",
+      "Decentralization 101",
+      "Proof of Prover",
+      "Bridging Gaps"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What date did the Level 1 Testnet start?",
+    "a": [
+      "February 10, 2025",
+      "January 25, 2025",
+      "March 1, 2025",
+      "April 15, 2025"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "How much USDC must users deposit to begin testnet tasks?",
+    "a": ["10 USDC", "5 USDC", "0 USDC", "1 USDC"],
+    "correct": 0
+  },
+  {
+    "q": "What key component is Succinct building?",
+    "a": ["SP1 zkVM", "Token Bridge", "Layer 2 chain", "MEV Oracle"],
+    "correct": 0
+  },
+  {
+    "q": "What is a goal of Succinct's testnet?",
+    "a": [
+      "Decentralized proof generation",
+      "Bridge L1 to L2 tokens",
+      "Replace mining with staking",
+      "Launch NFTs"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What helps verify blockchain state in Succinct?",
+    "a": ["Proofs", "Blocks", "Validators", "Oracles"],
+    "correct": 0
+  },
+  {
+    "q": "What role do users play in the testnet?",
+    "a": ["Provers", "Validators", "Builders", "Viewers"],
+    "correct": 0
+  },
+  {
+    "q": "What is Succinct's primary mission?",
+    "a": [
+      "Make proving fast and accessible",
+      "Build a new L1 chain",
+      "Replace validators",
+      "Mine ZK tokens"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which team color is NOT part of Succinct's community testnet?",
+    "a": ["Red", "Pink", "Purple", "Green"],
+    "correct": 0
+  },
+  {
+    "q": "Which protocol is Succinct most aligned with?",
+    "a": ["ZK infrastructure", "DeFi lending", "NFT minting", "Bridging layer"],
+    "correct": 0
+  },
+  {
+    "q": "Stars on the leaderboard reflect:",
+    "a": [
+      "Proof quality & activity",
+      "Wallet age",
+      "Trading volume",
+      "Staking duration"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What is SP1?",
+    "a": [
+      "A general-purpose zkVM",
+      "A validator tool",
+      "A gas token",
+      "A testnet token"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which phrase best represents Succinct’s vision?",
+    "a": [
+      "A world powered by verifiable computation",
+      "Blockchain for entertainment",
+      "Decentralized chat",
+      "Layer 2 domination"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What’s the purpose of the SP1 testnet?",
+    "a": [
+      "Evaluate prover performance",
+      "Airdrop tokens",
+      "Bridge BTC",
+      "Test validator uptime"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct’s testnet uses what format for contributions?",
+    "a": [
+      "Levels with milestones",
+      "Open mining",
+      "Random snapshots",
+      "Proof auctions"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which blockchain feature does Succinct optimize?",
+    "a": [
+      "Proof generation",
+      "Transaction fees",
+      "NFT rarity",
+      "Token inflation"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct’s zkVM is written in which language?",
+    "a": ["Rust", "Go", "Solidity", "Python"],
+    "correct": 0
+  },
+  {
+    "q": "Which type of users are rewarded in Succinct’s system?",
+    "a": [
+      "Accurate provers",
+      "Top voters",
+      "Whale traders",
+      "Airdrop claimers"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What are users encouraged to read for full testnet info?",
+    "a": ["The vision doc", "Only Discord", "A tweet", "Block explorer"],
+    "correct": 0
+  },
+  {
+    "q": "Which major concept powers all of Succinct’s tooling?",
+    "a": [
+      "Verifiable computation",
+      "Gasless execution",
+      "Randomness mining",
+      "Flashloans"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which team color is listed first on the Stars leaderboard?",
+    "a": ["Pink", "Blue", "Orange", "Green"],
+    "correct": 0
+  },
+  {
+    "q": "Which part of the Succinct site shows team performance?",
+    "a": ["Stars leaderboard", "Docs page", "Support chat", "Wallet tab"],
+    "correct": 0
+  },
+  {
+    "q": "How many stars are needed to reach the top 3 on the leaderboard?",
+    "a": [
+      "It changes over time",
+      "Exactly 100",
+      "50 fixed",
+      "1 star always works"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which color team is often associated with energetic vibes?",
+    "a": ["Orange", "Blue", "Green", "Purple"],
+    "correct": 0
+  },
+  {
+    "q": "Who builds proofs in the SP1 network?",
+    "a": ["Users", "Bots", "Oracles", "Validators"],
+    "correct": 0
+  },
+  {
+    "q": "What action starts your Succinct testnet journey?",
+    "a": ["Deposit USDC", "Connect Twitter", "Stake ETH", "Buy NFTs"],
+    "correct": 0
+  },
+  {
+    "q": "What’s used to measure proof speed?",
+    "a": ["Latency (ms)", "Transaction gas", "Block size", "Signature size"],
+    "correct": 0
+  },
+
+  {
+    "q": "What does SP1 aim to make more efficient in blockchain environments?",
+    "a": [
+      "Proof generation and verification",
+      "Gas usage",
+      "Staking rewards",
+      "Token burning"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct helps blockchains scale by offloading what?",
+    "a": ["Computation", "Transactions", "Fees", "Tokens"],
+    "correct": 0
+  },
+  {
+    "q": "What is a key benefit of using zero-knowledge proofs?",
+    "a": [
+      "Privacy and verifiability",
+      "Lower mining costs",
+      "Higher inflation",
+      "Central control"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "The Succinct testnet leaderboard mainly ranks users by:",
+    "a": ["Number of stars", "Token amount", "Join date", "Username"],
+    "correct": 0
+  },
+  {
+    "q": "Which team is commonly associated with creativity?",
+    "a": ["Purple", "Green", "Blue", "Orange"],
+    "correct": 0
+  },
+  {
+    "q": "Which level marked the beginning of Succinct’s testnet?",
+    "a": ["Level 1", "Level 0", "Genesis", "Alpha Phase"],
+    "correct": 0
+  },
+  {
+    "q": "Which programming principle underlies zkVMs like SP1?",
+    "a": ["Determinism", "Recursion", "Concurrency", "Multi-threading"],
+    "correct": 0
+  },
+  {
+    "q": "Succinct believes the future of blockchains is driven by:",
+    "a": [
+      "Proof-based computation",
+      "Validator networks",
+      "Whale trading",
+      "NFT speculation"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which browser extension might be needed to connect to SP1 Testnet?",
+    "a": ["MetaMask", "Phantom", "Keplr", "Brave Wallet"],
+    "correct": 0
+  },
+  {
+    "q": "The purpose of star rewards is to:",
+    "a": [
+      "Incentivize participation and performance",
+      "Pay for gas",
+      "Stake ETH",
+      "Buy NFTs"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct’s branding often features which primary color?",
+    "a": ["Magenta / Pink", "Dark red", "Cyan", "Black"],
+    "correct": 0
+  },
+  {
+    "q": "How do you move up the leaderboard on testnet?",
+    "a": ["Earn more stars", "Change wallet", "Stake ETH", "Restart level"],
+    "correct": 0
+  },
+  {
+    "q": "What does zk stand for?",
+    "a": ["Zero-knowledge", "Zone kernel", "Zebra key", "Zillabyte kernel"],
+    "correct": 0
+  },
+  {
+    "q": "Which of these is a main feature of Succinct’s zkVM?",
+    "a": [
+      "Verifiable proofs",
+      "Unlimited staking",
+      "NFT creation",
+      "Block mining"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "A prover in the SP1 network is someone who:",
+    "a": ["Generates proofs", "Mints NFTs", "Trades tokens", "Bakes blocks"],
+    "correct": 0
+  },
+  {
+    "q": "The 'stars' system is most similar to:",
+    "a": [
+      "A leaderboard rank",
+      "A wallet balance",
+      "Voting power",
+      "Referral bonuses"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "How is SP1 described?",
+    "a": ["General-purpose zkVM", "L1 token", "PoW miner", "Bridge protocol"],
+    "correct": 0
+  },
+  {
+    "q": "Succinct aims to solve which major issue?",
+    "a": [
+      "Blockchain verification at scale",
+      "High NFT gas fees",
+      "CEX withdrawal delays",
+      "Validator downtime"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "SP1 helps run smart contracts with:",
+    "a": [
+      "ZK verifiability",
+      "Faster block time",
+      "Validator votes",
+      "AI logic"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "The Succinct Testnet launched in which year?",
+    "a": ["2025", "2023", "2021", "2024"],
+    "correct": 0
+  },
+  {
+    "q": "What is the Succinct testnet leaderboard primarily measuring?",
+    "a": [
+      "Proof contribution and activity",
+      "ETH volume",
+      "Staked balance",
+      "Node uptime"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Who can participate in the SP1 Testnet?",
+    "a": [
+      "Anyone with a wallet",
+      "Only team members",
+      "Miners only",
+      "KYC users"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "SP1 enables programs to be run off-chain and proven...",
+    "a": [
+      "...on-chain with ZK",
+      "...in zero gas mode",
+      "...on Layer 0",
+      "...with PoW"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What is needed to join the testnet levels?",
+    "a": [
+      "A connected wallet and 10 USDC",
+      "Discord badge",
+      "Node setup",
+      "SP1 tokens"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which programming concept is important in proving circuits?",
+    "a": ["Determinism", "Randomness", "Parallel mining", "Indexing"],
+    "correct": 0
+  },
+  {
+    "q": "The goal of Succinct is to make zk proving...",
+    "a": [
+      "...fast, cheap, and decentralized",
+      "...available only to L2s",
+      "...power NFT mints",
+      "...slow but stable"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "SP1 stands for?",
+    "a": [
+      "Succinct Prover 1",
+      "State Proof Layer",
+      "Simple Proof Engine",
+      "Secure Proving V1"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "The first SP1 testnet phase was called?",
+    "a": ["Level 1", "Phase Zero", "Genesis Proof", "Leap of Trust"],
+    "correct": 0
+  },
+  {
+    "q": "Which team color represents freshness and vitality?",
+    "a": ["Green", "Blue", "Orange", "Purple"],
+    "correct": 0
+  },
+  {
+    "q": "Succinct proofs help verify what?",
+    "a": [
+      "Computation results",
+      "Token price",
+      "NFT rarity",
+      "Transaction gas"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct is building tools for which ecosystem?",
+    "a": [
+      "ZK infrastructure",
+      "DeFi trading",
+      "NFT marketplaces",
+      "Chain explorers"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "SP1 is used to prove execution of what?",
+    "a": [
+      "Programs and circuits",
+      "NFT images",
+      "Exchange rates",
+      "Flash loans"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "How does SP1 differ from traditional computing?",
+    "a": [
+      "It produces verifiable proofs",
+      "It mines tokens",
+      "It increases gas",
+      "It stores NFTs"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What kind of programs can SP1 run?",
+    "a": [
+      "General-purpose verifiable programs",
+      "Only smart contracts",
+      "NFT auctions",
+      "PoS staking apps"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which color team might represent calm or logic?",
+    "a": ["Blue", "Orange", "Red", "Pink"],
+    "correct": 0
+  },
+  {
+    "q": "What happens when a player finishes all levels?",
+    "a": [
+      "Their stars are ranked",
+      "They mint NFTs",
+      "They receive SP1 tokens",
+      "They restart"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "The Succinct Testnet is ideal for users who want to...",
+    "a": [
+      "Explore ZK tech hands-on",
+      "Earn free NFTs",
+      "Trade memecoins",
+      "Run L2 validators"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct Labs was founded to scale...",
+    "a": [
+      "Zero-knowledge infrastructure",
+      "Decentralized memes",
+      "Blockchain UX",
+      "Crypto games"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Which team color is not listed on the testnet leaderboard?",
+    "a": ["Red", "Blue", "Green", "Orange"],
+    "correct": 0
+  },
+  {
+    "q": "SP1 focuses on which kind of computing model?",
+    "a": [
+      "Prove-once verify-many",
+      "Stake-prove-stake",
+      "Mine-and-hash",
+      "Random state compute"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "A player earns a star by...",
+    "a": [
+      "Completing valid tasks",
+      "Logging in daily",
+      "Liking tweets",
+      "Buying NFTs"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct encourages users to read their...",
+    "a": ["Vision doc", "Tokenomics paper", "Forum posts", "Audit trail"],
+    "correct": 0
+  },
+
+  {
+    "q": "Which team color on the leaderboard is associated with royalty or luxury?",
+    "a": ["Purple", "Green", "Orange", "Blue"],
+    "correct": 0
+  },
+  {
+    "q": "What term describes programs that generate proofs for other programs?",
+    "a": ["Provers", "Oracles", "Compilers", "Validators"],
+    "correct": 0
+  },
+  {
+    "q": "The stars leaderboard refreshes based on:",
+    "a": [
+      "Performance over time",
+      "Wallet age",
+      "NFT trades",
+      "Proof auctions"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct aims to remove the need for:",
+    "a": ["Trust in computation", "Validators", "Tokens", "Users"],
+    "correct": 0
+  },
+  {
+    "q": "One major value of zk proofs is:",
+    "a": [
+      "Privacy without revealing inputs",
+      "Free NFTs",
+      "Token boosts",
+      "Referral bonuses"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "The Succinct testnet allows you to prove what kind of programs?",
+    "a": ["General-purpose", "Only crypto contracts", "Games", "L2 bridges"],
+    "correct": 0
+  },
+  {
+    "q": "Succinct Labs believes the future of computation is:",
+    "a": [
+      "Verifiable by default",
+      "Owned by miners",
+      "Tokenized",
+      "Written in Solidity"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Succinct’s ecosystem is centered around:",
+    "a": [
+      "Proofs, provers, and programs",
+      "DeFi swaps",
+      "Liquid staking",
+      "CEX listings"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What is the final goal of a prover on testnet?",
+    "a": [
+      "Earn stars for quality proofs",
+      "Become a validator",
+      "Mint NFTs",
+      "Win tokens"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What makes Succinct different from most ZK projects?",
+    "a": [
+      "Focus on programmable proving",
+      "Focus on L2 rollups",
+      "NFT integration",
+      "Token burning"
+    ],
+    "correct": 0
+  }
+]
